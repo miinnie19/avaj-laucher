@@ -1,2 +1,2 @@
 # avaj-launcher
-JAVA-LAUNCHER (^^,)
+java-launcher (^^,)
